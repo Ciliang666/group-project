@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_color">#DBDBDB</color>
+    <color name="shift_button_released">#03FFC4</color>
+    <color name="shift_button_pressed">#b3ffed</color>
+    <color name="digit_button_released">#ffffff</color>
+    <color name="function_button_released">#6E6E6E</color>
+    <color name="operation_button_released">#ADADAD</color>
+    <color name="button_pressed">#cccccc</color>
+    <color name="delete_button_released">#FF0000</color>
+    <color name="delete_button_pressed">#ff9494</color>
+    <color name="function_button_text">#FFFFFF</color>
+    <color name="display_background">#FAFAFA</color>
+    <color name="cursor">#000000</color>
+    <color name="text">#000000</color>
+    <color name="alert">#ff0004</color>
+    <color name="hint">#0015ff</color>
+    <color name="color_orange">#EE6911</color>
+</resources>
